@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creative-projects/blog/tigergaj-blog-homepage/","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/creative-projects/blog/tigergaj-blog-homepage/","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ## Howdy!
@@ -9,18 +9,17 @@ My name is Leva, I'm a 25 year old queer artist with way too dang many thoughts 
 - [[Creative projects/blog/The Apparatus/The Apparatus\|The Apparatus]]
 - [[Creative projects/blog/NYWC/Lunar Eclipse 2025-03-13/Lunar Eclipse 2025-03-14\|Lunar Eclipse 2025-03-14]]
 - [[Creative projects/Come Out/Come Out/I ask that you understand/I ask you to understand\|I ask you to understand]]
-- [[Creative projects/blog/Poetry/I've been looking at this person in the mirror\|I've been looking at this person in the mirror]]
+- [[Creative projects/Come Out/I've been looking at this person in the mirror\|I've been looking at this person in the mirror]]
 
 ## My most recent post:
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/creative-projects/blog/poetry/i-ve-been-looking-at-this-person-in-the-mirror/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/creative-projects/come-out/i-ve-been-looking-at-this-person-in-the-mirror/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## I've looked at myself in the mirror a lot recently
-
-But I haven't taken any pictures of myself. I've been constantly thinking about the subjectivity of gender and I'm gonna be honest, the more I detach myself from it, the happier I am. 
+## I've been looking at this person in the mirror
+But I haven't taken any pictures of them. I've been constantly thinking about the subjectivity of gender and I'm gonna be honest, the more I detach myself from it, the happier I am. 
 
 ![IMG_20250414_153424.jpg](/img/user/IMG_20250414_153424.jpg)
 ## It feels good to accept what I see 
