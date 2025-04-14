@@ -22,7 +22,7 @@ So when we started looking for a bong and found [[Creative projects/blog/The App
 
 ### Water Chamber
 ![IMG_20250211_152335.jpg](/img/user/Creative%20projects/blog/The%20Apparatus/IMG_20250211_152335.jpg)
-/publi
+2a
 ## Original Instructions
 this guide is decent and it has some great ideas, but it's lacking style and precision. We need an easily replicable process that we can practice and refine to complete in a satisfactory amount of time. Currently it takes us about 30 minutes to an hour.
 ![Apparatus instructions.jpg](/img/user/Creative%20projects/blog/The%20Apparatus/Apparatus%20instructions.jpg)
