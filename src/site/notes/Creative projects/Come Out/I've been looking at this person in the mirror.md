@@ -5,7 +5,7 @@
 ## I've been looking at this person in the mirror
 But I haven't taken any pictures of them. I've been constantly thinking about the subjectivity of gender and I'm gonna be honest, the more I detach myself from it, the happier I am. 
 
-![IMG_20250414_153424.jpg](/img/user/IMG_20250414_153424.jpg)
+![IMG_20250407_190325.jpg](/img/user/IMG_20250407_190325.jpg)
 ## It feels good to accept what I see 
 
 *"I am whatever that is"*, I'll accept that I am that creature looking back at itself, 0.0000000061 seconds in the past. I could not predict the future, but I am in this moment, and the next time I look in a mirror the person looking back at me will be different. 
